@@ -1,0 +1,10 @@
+.gradle
+gradle.properties
+lib/build
+lib/bin
+lib/walletdb
+examples/build/
+examples/bin/
+examples/walletdb
+examples/example-wallet
+examples/wallet-data
